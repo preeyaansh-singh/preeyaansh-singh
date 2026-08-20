@@ -1,20 +1,78 @@
-# 💫 About Me:
-🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Creative Ideas<br>🌱 I’m currently learning HTML, CSS and JavaScript<br>💬 Ask me about Creation, Ideas and Motive<br>⚡ Fun fact :- I Adore Ice-Cream
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CFF,100:22D3EE&height=220&section=header&text=FireFist_Preeyaansh&fontSize=42&fontColor=ffffff&desc=Building%20modern%20web%20experiences%20with%20clean%20design%20and%20purposeful%20code.&descSize=18&descAlign=50&descAlignY=58)
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CFF&center=true&vCenter=true&width=600&lines=Frontend%20Web%20Developer;UI%2FUX%20Design%20Enthusiast;Exploring%20React%20and%20Node.js;Building%20for%20the%20Modern%20Web)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=plastic&logo=sketch&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=plastic&logo=adobeindesign&logoColor=FF3366) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=preeyaansh-singh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=preeyaansh-singh&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=preeyaansh-singh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=preeyaansh-singh&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![Profile Views](https://komarev.com/ghpvc/?username=preeyaansh-singh&color=8B5CFF&style=for-the-badge&label=PROFILE+VIEWS)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+## ⚡ About Me
+- Frontend-focused developer dedicated to building responsive and user-centered web applications.
+- Focused on strengthening core JavaScript skills while expanding into React, Node.js, and cloud basics.
+- Driven by a passion for pairing solid engineering with clean, functional design.
+## 🚀 What I'm Up To
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=preeyaansh-singh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+- Currently mastering JavaScript core concepts and React basics
+- Learning Node.js and foundational AWS cloud concepts
+- Open to collaborating on responsive web design and frontend projects
+
+## 🛠️ Tech Arsenal
+<div align="center">
+
+![💻 Technical Skills
+HTML5
+CSS3
+Basic JavaScript (learning phase)
+Git & GitHub
+Responsive Web Design
+⚙️ Tools & Platforms
+Visual Studio Code
+GitHub
+Git
+Browser DevTools
+🚀 Currently Learning
+JavaScript (Core Concepts)
+React (Basics)
+Node.js (Introduction)
+Cloud Basics (AWS)
+🎨 Other Skills (Your Edge)
+UI/UX Sense (you clearly like premium design)
+Creative Thinking
+Problem Solving
+Fast Learner](https://img.shields.io/badge/%F0%9F%92%BB%20Technical%20Skills%0AHTML5%0ACSS3%0ABasic%20JavaScript%20(learning%20phase)%0AGit%20%26%20GitHub%0AResponsive%20Web%20Design%0A%E2%9A%99%EF%B8%8F%20Tools%20%26%20Platforms%0AVisual%20Studio%20Code%0AGitHub%0AGit%0ABrowser%20DevTools%0A%F0%9F%9A%80%20Currently%20Learning%0AJavaScript%20(Core%20Concepts)%0AReact%20(Basics)%0ANode.js%20(Introduction)%0ACloud%20Basics%20(AWS)%0A%F0%9F%8E%A8%20Other%20Skills%20(Your%20Edge)%0AUI%2FUX%20Sense%20(you%20clearly%20like%20premium%20design)%0ACreative%20Thinking%0AProblem%20Solving%0AFast%20Learner-555?style=for-the-badge)
+
+</div>
+## 📊 GitHub Analytics
+<div align="center">
+
+![preeyaansh-singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=preeyaansh-singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preeyaansh-singh&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=preeyaansh-singh&theme=tokyonight&hide_border=true)
+
+</div>
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=preeyaansh-singh&theme=tokyo-night&hide_border=true&area=true)](https://github.com/preeyaansh-singh)
+
+</div>
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=preeyaansh-singh&theme=tokyonight&no-frame=true&column=7&margin-w=10)
+
+</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:8B5CFF&height=120&section=footer&text=&fontSize=42)
+
+<div align="center">
+
+[![Made with ReadmeBuddy](https://img.shields.io/badge/Made%20with-ReadmeBuddy-8B5CFF?style=for-the-badge&logo=markdown&logoColor=white)](https://readmebuddy.com)
+
+</div>
+
 
