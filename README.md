@@ -4,10 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:8B5CF6&height=280&section=header&text=FIRE%20FIST&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=PREYAAANSH%20SINGH%20%E2%80%A2%20Frontend%20Developer&descAlignY=60&descAlign=50"/>
 </p>
 
-<!-- 🔥 PERSONAL LOGO -->
+<!-- 🔥 PERSONAL LOGO / ENHANCED DYNAMIC TEXT -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=%F0%9F%94%A5+FIRE+FIST+%F0%9F%94%A5;PREMIUM+WEB+BUILDER;DESIGN+%2B+CODE+%3D+IMPACT" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=900&color=F97316&center=true&vCenter=true&width=650&lines=%F0%9F%94%A5+FIRE+FIST+%F0%9F%94%A5;Crafting+Premium+Web+Experiences;Frontend+Developer+%7C+UI%2FUX+Focused;Turning+Ideas+into+Interfaces;Design+%2B+Code+%3D+Impact;Exploring+React+%26+Node;Building+for+the+Modern+Web;Clean+Code+Enthusiast;Always+Learning+%F0%9F%9A%80;From+Concept+to+Creation" />
 </p>
 
 <div align="center">
@@ -20,7 +20,7 @@
 
 ## 🧠 About Me
 
-```js
+```js id="m6a2tt"
 const fireFist = {
   name: "Preeyaansh Singh",
   role: "Frontend Developer",
@@ -52,7 +52,16 @@ const fireFist = {
 
 ---
 
+## 📊 GitHub Stats
 
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=preeyaansh-singh&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preeyaansh-singh&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
 
 ## 🔥 Streak Stats
 
@@ -104,4 +113,30 @@ const fireFist = {
 </div>
 
 ---
+
+<!-- 🔥 FOOTER WAVE -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:020617&height=120&section=footer"/>
+</p>
+
+---
+
+### 💡 Upgrade Done
+
+* ✨ Dynamic text now has **more variety + personality**
+* 🚀 Feels more **alive and expressive**
+* 🎯 Still clean, not over-cluttered
+* ⚡ No setup required (fully stable)
+
+---
+
+If you want, I can next:
+
+* Make the text **story-based (cinematic transitions)**
+* Add **typing + deleting effect simulation**
+* Or design a **real FireFist SVG logo**
+
+Just say 🔥
+
 
