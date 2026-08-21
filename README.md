@@ -1,28 +1,25 @@
-<!-- 🔥 3D STYLE BANNER -->
+<!-- 🔥 3D PREMIUM BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:8B5CF6&height=280&section=header&text=FIRE%20FIST&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=PREYAAANSH%20SINGH%20%E2%80%A2%20Frontend%20Developer&descAlignY=60&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:8B5CF6&height=280&section=header&text=FIRE%20FIST&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=PREYAAANSH%20SINGH%20%E2%80%A2%20Crafting%20Modern%20Web%20Experiences&descAlignY=60&descAlign=50"/>
 </p>
 
-<!-- 🔥 CUSTOM FIRE FIST SVG LOGO -->
+<!-- 🔥 GLOWING PERSONAL LOGO -->
 
 <p align="center">
-  <svg width="120" height="120" viewBox="0 0 200 200">
-    <defs>
-      <linearGradient id="fireGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#f97316"/>
-        <stop offset="100%" stop-color="#8B5CF6"/>
-      </linearGradient>
-    </defs>
-    <circle cx="100" cy="100" r="90" fill="none" stroke="url(#fireGrad)" stroke-width="6"/>
-    <path d="M100 40 C120 70, 140 90, 100 140 C60 90, 80 70, 100 40Z" fill="url(#fireGrad)"/>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:F97316&height=120&section=header&text=FF&fontSize=50&fontColor=ffffff&animation=twinkling"/>
 </p>
 
-<!-- 🔥 CINEMATIC STORY-BASED TYPING -->
+<!-- 🎬 NEXT-LEVEL DYNAMIC TEXT (STORY + STYLE + ENERGY) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=3200&pause=800&color=F97316&center=true&vCenter=true&width=750&lines=It+started+with+curiosity...;A+simple+line+of+code+changed+everything.;From+learning+to+building...;From+ideas+to+interfaces...;Designing+experiences+that+feel+premium.;Crafting+clean+and+purposeful+code.;Now+building+for+the+modern+web.;This+is+just+the+beginning+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=1800&pause=600&color=22D3EE&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Loading+FireFist+Profile...;Welcome+to+my+digital+universe;I+don%E2%80%99t+just+code...+I+craft+experiences;Pixels+to+perfection+%E2%9C%A8;Turning+ideas+into+interfaces;Design.+Code.+Impact.;Frontend+Developer+with+a+creative+edge;Building+for+speed+%26+beauty;Obsessed+with+clean+UI;Learning.+Building.+Evolving.;This+is+just+level+1+%F0%9F%9A%80"/>
+</p>
+
+<!-- ⚡ GLITCH TEXT EFFECT -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1200&pause=400&color=F97316&center=true&vCenter=true&width=700&lines=%3E+initializing...;%3E+booting+creativity...;%3E+deploying+ideas...;%3E+system+ready+%E2%9C%85" />
 </p>
 
 <div align="center">
@@ -35,57 +32,69 @@
 
 ## 🧠 About Me
 
-```js
+```js id="codeblock"
 const fireFist = {
   name: "Preeyaansh Singh",
   role: "Frontend Developer",
-  focus: ["HTML", "CSS", "JavaScript"],
-  learning: ["React", "Node.js"],
-  style: "Clean UI + Strong Logic",
-  vision: "Build premium web experiences"
+  style: "Clean UI + Smart Logic",
+  mission: "Build premium, modern web experiences",
+  currentFocus: ["JavaScript", "React", "UI/UX"],
+  evolving: true
 };
 ```
-
----
-
-## ⚡ What I'm Doing
-
-* 🔹 Mastering JavaScript fundamentals
-* 🔹 Building responsive UI projects
-* 🔹 Learning React & modern frontend tools
-* 🔹 Exploring backend (Node.js)
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode&theme=dark" />
+
 </div>
+
+---
+
+## 🎮 Developer Mode (Fun Section)
+
+```id="gamemode"
+LEVEL: 01 🚀
+XP: ███████░░░░ 70%
+
+SKILLS UNLOCKED:
+✔ HTML / CSS
+✔ JavaScript Basics
+✔ Responsive Design
+
+NEXT UNLOCK:
+🔒 React Mastery
+🔒 Backend Systems
+🔒 Cloud Deployment
+```
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
+
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=preeyaansh-singh&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preeyaansh-singh&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Streak + Activity
 
 <div align="center">
+
 <img src="https://streak-stats.demolab.com?user=preeyaansh-singh&theme=tokyonight&hide_border=true" />
-</div>
 
----
+<br><br>
 
-## 📈 Activity Graph
-
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=preeyaansh-singh&theme=tokyo-night&hide_border=true&area=true" />
+
 </div>
 
 ---
@@ -93,34 +102,39 @@ const fireFist = {
 ## 🏆 Achievements
 
 <div align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=preeyaansh-singh&theme=tokyonight&no-frame=true&column=6" />
+
 </div>
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Current Mission
 
-* 🚀 Master JavaScript deeply
-* ⚛️ Build real React projects
-* 🌐 Learn backend integration
-* ☁️ Explore AWS basics
+* ⚡ Master JavaScript deeply
+* ⚛️ Build powerful React apps
+* 🌐 Learn backend logic
+* ☁️ Deploy on cloud (AWS)
 
 ---
 
 ## 🤝 Connect
 
 <div align="center">
+
 <a href="https://github.com/preeyaansh-singh">
   <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </div>
 
 ---
 
-<!-- 🔥 FOOTER -->
+<!-- 🔥 FUTURISTIC FOOTER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:020617&height=120&section=footer"/>
 </p>
 
 ---
+
