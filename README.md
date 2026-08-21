@@ -52,16 +52,7 @@ const fireFist = {
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=preeyaansh-singh&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preeyaansh-singh&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## 🔥 Streak Stats
 
@@ -113,31 +104,4 @@ const fireFist = {
 </div>
 
 ---
-
-<!-- 🔥 FOOTER WAVE -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:020617&height=120&section=footer"/>
-</p>
-
----
-
-### 💡 What Changed
-
-* 🔥 Added **3D-style animated banner**
-* 🔥 Created **FireFist personal logo feel** (animated text branding)
-* 🔥 Stronger identity (not generic anymore)
-* 🔥 Still **zero setup required**
-* 🔥 Looks like a **developer brand, not just profile**
-
----
-
-If you want next level:
-
-* 🎨 Custom **real logo (PNG + SVG branding kit)**
-* 🌐 Portfolio site matching this exact theme
-* 🎬 Animated hero like Apple website
-
-Just say: **“make me a logo”** or **“build portfolio”**
-
 
