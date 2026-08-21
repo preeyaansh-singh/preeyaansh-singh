@@ -59,6 +59,11 @@ I'm a frontend developer who enjoys turning ideas into interfaces that feel simp
 
 <br>
 
+---
+📈 Activity Graph
+
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=preeyaansh-singh&theme=tokyo-night&hide_border=true&area=true" /> </div>
+
 ## Let's Connect
 
 <div align="center">
