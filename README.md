@@ -1,13 +1,28 @@
-<!-- 🔥 3D STYLE BANNER (NO SETUP REQUIRED) -->
+<!-- 🔥 3D STYLE BANNER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:8B5CF6&height=280&section=header&text=FIRE%20FIST&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=PREYAAANSH%20SINGH%20%E2%80%A2%20Frontend%20Developer&descAlignY=60&descAlign=50"/>
 </p>
 
-<!-- 🔥 PERSONAL LOGO / ENHANCED DYNAMIC TEXT -->
+<!-- 🔥 CUSTOM FIRE FIST SVG LOGO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=900&color=F97316&center=true&vCenter=true&width=650&lines=%F0%9F%94%A5+FIRE+FIST+%F0%9F%94%A5;Crafting+Premium+Web+Experiences;Frontend+Developer+%7C+UI%2FUX+Focused;Turning+Ideas+into+Interfaces;Design+%2B+Code+%3D+Impact;Exploring+React+%26+Node;Building+for+the+Modern+Web;Clean+Code+Enthusiast;Always+Learning+%F0%9F%9A%80;From+Concept+to+Creation" />
+  <svg width="120" height="120" viewBox="0 0 200 200">
+    <defs>
+      <linearGradient id="fireGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#f97316"/>
+        <stop offset="100%" stop-color="#8B5CF6"/>
+      </linearGradient>
+    </defs>
+    <circle cx="100" cy="100" r="90" fill="none" stroke="url(#fireGrad)" stroke-width="6"/>
+    <path d="M100 40 C120 70, 140 90, 100 140 C60 90, 80 70, 100 40Z" fill="url(#fireGrad)"/>
+  </svg>
+</p>
+
+<!-- 🔥 CINEMATIC STORY-BASED TYPING -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=3200&pause=800&color=F97316&center=true&vCenter=true&width=750&lines=It+started+with+curiosity...;A+simple+line+of+code+changed+everything.;From+learning+to+building...;From+ideas+to+interfaces...;Designing+experiences+that+feel+premium.;Crafting+clean+and+purposeful+code.;Now+building+for+the+modern+web.;This+is+just+the+beginning+%F0%9F%94%A5" />
 </p>
 
 <div align="center">
@@ -20,7 +35,7 @@
 
 ## 🧠 About Me
 
-```js id="m6a2tt"
+```js
 const fireFist = {
   name: "Preeyaansh Singh",
   role: "Frontend Developer",
@@ -45,9 +60,7 @@ const fireFist = {
 ## 🛠️ Tech Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
-
 </div>
 
 ---
@@ -55,10 +68,8 @@ const fireFist = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=preeyaansh-singh&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preeyaansh-singh&layout=compact&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ---
@@ -66,9 +77,7 @@ const fireFist = {
 ## 🔥 Streak Stats
 
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=preeyaansh-singh&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ---
@@ -76,9 +85,7 @@ const fireFist = {
 ## 📈 Activity Graph
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=preeyaansh-singh&theme=tokyo-night&hide_border=true&area=true" />
-
 </div>
 
 ---
@@ -86,9 +93,7 @@ const fireFist = {
 ## 🏆 Achievements
 
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=preeyaansh-singh&theme=tokyonight&no-frame=true&column=6" />
-
 </div>
 
 ---
@@ -105,38 +110,17 @@ const fireFist = {
 ## 🤝 Connect
 
 <div align="center">
-
 <a href="https://github.com/preeyaansh-singh">
   <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </div>
 
 ---
 
-<!-- 🔥 FOOTER WAVE -->
+<!-- 🔥 FOOTER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:020617&height=120&section=footer"/>
 </p>
 
 ---
-
-### 💡 Upgrade Done
-
-* ✨ Dynamic text now has **more variety + personality**
-* 🚀 Feels more **alive and expressive**
-* 🎯 Still clean, not over-cluttered
-* ⚡ No setup required (fully stable)
-
----
-
-If you want, I can next:
-
-* Make the text **story-based (cinematic transitions)**
-* Add **typing + deleting effect simulation**
-* Or design a **real FireFist SVG logo**
-
-Just say 🔥
-
-
