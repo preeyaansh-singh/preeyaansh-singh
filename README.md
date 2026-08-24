@@ -91,16 +91,6 @@ Technologies I use to build clean, scalable, and modern web experiences.
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=preeyaansh-singh&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
