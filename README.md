@@ -90,7 +90,6 @@ Technologies I use to build clean, scalable, and modern web experiences.
 </div>
 
 ---
-
 ## 📈 Activity Graph
 
 <div align="center">
@@ -100,6 +99,7 @@ Technologies I use to build clean, scalable, and modern web experiences.
 </div>
 
 ---
+
 
 ## 🐍 Contribution Snake
 
