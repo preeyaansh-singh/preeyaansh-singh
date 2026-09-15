@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=240&section=header&text=Preeyaansh%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20FireFist%20Dev%20•%20Crafting%20Effortless%20Interfaces&descAlignY=58&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,100:6366F1&height=250&section=header&text=Preeyaansh%20Singh&fontSize=50&fontColor=E6EAF2&animation=fadeIn&fontAlignY=38&desc=⚡%20FireFist%20Dev%20•%20Minimal%20Interfaces%20%7C%20Maximum%20Impact&descAlignY=58&descAlign=50"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=I+turn+ideas+into+clean+interfaces;React+%26+JavaScript+Focused;Design+%C3%97+Code+%C3%97+Experience;Always+Learning%2C+Always+Shipping;FireFist+Mode%3A+Activated"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=8B9CF6&center=true&vCenter=true&width=700&lines=I+design+interfaces+that+feel+effortless;Frontend+Developer+%7C+React+%26+JavaScript;Clean+Code+%C3%97+Intentional+Design;Learning+Backend+%26+Cloud+(AWS);FireFist+Mode+%E2%9A%A1"/>
 
 <img src="https://komarev.com/ghpvc/?username=preeyaansh-singh&color=6366F1&style=flat-square&label=Profile+Views"/>
 
@@ -16,15 +16,15 @@
 const preeyaansh = {
   identity: "FireFist Dev",
   role: "Frontend Developer",
-  focus: ["JavaScript", "React", "UI/UX"],
-  philosophy: "simplicity > complexity",
-  currentlyBuilding: "modern full-stack projects",
-  exploring: "backend systems & cloud (AWS)",
+  core: ["JavaScript", "React", "UI/UX"],
+  mindset: "clarity > complexity",
+  building: "scalable frontend systems",
+  exploring: ["backend", "APIs", "AWS"],
 };
 ```
 
-I turn complex ideas into interfaces that feel effortless.
-Focused on performance, clarity, and real user experience — not just visuals.
+I build interfaces that *feel simple*, even when the logic behind them isn’t.
+Focused on performance, usability, and clean architecture.
 
 ---
 
@@ -32,95 +32,88 @@ Focused on performance, clarity, and real user experience — not just visuals.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode&theme=dark"/>
 
 </div>
 
 <p align="center">
-Technologies I use to build clean, scalable, and modern web experiences.
+Minimal tools. Maximum output.
 </p>
 
 ---
 
-## 🧠 My Approach
+## 🧠 Engineering Principles
 
-* Simplicity over unnecessary complexity
-* User experience over flashy design
-* Consistency over shortcuts
-* Build small → polish deeply → ship fast
-
----
-
-## 🔥 Currently Building
-
-* Modern React UI projects with clean architecture
-* Backend fundamentals (APIs, databases)
-* Exploring AWS & cloud deployment
-* Improving real-world project quality
+* Simplicity over noise
+* UX over decoration
+* Systems over hacks
+* Ship fast → refine relentlessly
 
 ---
 
-## 🚀 Featured Work
+## 🔥 Current Focus
 
-### 🌐 Portfolio Project (Coming Live Soon)
-
-* Minimal, premium UI design
-* Built with React + modern styling
-* Focused on performance & UX
-
-### ⚡ Frontend Projects
-
-* Clean UI components & layouts
-* Real-world practice projects
-* Continuous improvement & iteration
+* Building **Cool UI with Cool UX**
+* Strengthening **backend fundamentals**
+* Exploring **AI and Agentic Environments**
+* Creating **Portfolio-grade projects**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Sync Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=preeyaansh-singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preeyaansh-singh&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Total%20Contributions-146-0B0F19?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Current%20Streak-1%20day-6366F1?style=for-the-badge&logo=firefox&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Longest%20Streak-9%20days-8B9CF6?style=for-the-badge&logo=git&logoColor=white"/>
+
+</div>
+
+<p align="center">
+<i>My GitHub journey at a glance</i><br>
+Keep building →
+</p>
+---
+
+## 🧬 Contribution Insights
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=preeyaansh-singh&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=preeyaansh-singh&theme=tokyonight"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=preeyaansh-singh&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=preeyaansh-singh&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=preeyaansh-singh&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
 ---
-## 📈 Activity Graph
+
+## ⚡Visualize my journey 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=preeyaansh-singh&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preeyaansh-singh&theme=tokyonight"/>
 
 </div>
 
 ---
 
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-## 🌐 Let's Connect
+## 🌐 Connect
 
 <div align="center">
 
 <a href="https://github.com/preeyaansh-singh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=E6EAF2"/>
 </a>
 
 <a href="mailto:preeyaansh.x.luffy@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -128,11 +121,11 @@ Technologies I use to build clean, scalable, and modern web experiences.
 ---
 
 <p align="center">
-🟢 Status: Building something meaningful...
+🟢 Status: Building with intent.
 </p>
 
 <p align="center">
-<i>“I design experiences, not just interfaces.”</i>
+<i>"I don’t just write code. I design how it feels."</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0B0F19&height=120&section=footer"/>
