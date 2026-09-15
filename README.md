@@ -88,7 +88,7 @@ Keep building →
 <br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=preeyaansh-singh&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=preeyaansh-singh&theme=tokyonight&utcOffset=5.5"/>
+
 
 </div>
 
